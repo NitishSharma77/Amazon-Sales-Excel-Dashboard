@@ -5,21 +5,23 @@ An interactive **Excel dashboard project** focused on analyzing Amazon sales, de
 ---
 
 ## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Tools & Skills Used](#tools--skills-used)
-- [Dashboard Preview](#dashboard-preview)
-- [Key Business Insights](#key-business-insights)
-- [Project Files](#project-files)
-- [How to Use](#how-to-use)
-- [Author](#author)
+
+- **[Project Overview](#project-overview)**
+- **[Tools & Skills Used](#tools--skills-used)**
+- **[Dashboard Preview](#dashboard-preview)**
+- **[Key Business Insights](#key-business-insights)**
+- **[Project Files](#project-files)**
+- **[How to Use](#how-to-use)**
+- **[Author](#author)**
 
 ---
 
-## Project Overview
+## 📖 Project Overview
 
 This project demonstrates how **Advanced Excel** can be used as a powerful analytics and business intelligence tool.
 
 Using real-world styled Amazon sales data, the dashboard provides a clear view of:
+
 - Sales performance
 - Delivery efficiency
 - Regional contribution
@@ -45,9 +47,11 @@ The goal is to convert raw data into **actionable insights** using Excel feature
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview Dashboard
+
 ![Dashboard Overview](Images/Dashboard_Overview.png)
 
 ### 🔹 Insights Dashboard
+
 ![Dashboard Insights](Images/Dashboard_Insights.png)
 
 ---
