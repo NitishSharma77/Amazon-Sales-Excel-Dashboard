@@ -4,47 +4,59 @@ An interactive **Excel dashboard project** focused on analyzing Amazon sales, de
 
 ---
 
-## 📌 Table of Contents
+<h2 id="toc">📌 Table of Contents</h2>
 
-- **[Project Overview](#project-overview)**
-- **[Tools & Skills Used](#tools--skills-used)**
-- **[Dashboard Preview](#dashboard-preview)**
-- **[Key Business Insights](#key-business-insights)**
-- **[Project Files](#project-files)**
-- **[How to Use](#how-to-use)**
-- **[Author](#author)**
+<ul>
+<li><a href="#project-overview">Project Overview</a></li>
+<li><a href="#tools-skills">Tools & Skills Used</a></li>
+<li><a href="#dashboard-preview">Dashboard Preview</a></li>
+<li><a href="#insights">Key Business Insights</a></li>
+<li><a href="#project-files">Project Files</a></li>
+<li><a href="#how-to-use">How to Use</a></li>
+<li><a href="#author">Author</a></li>
+</ul>
 
 ---
 
-## 📖 Project Overview
+<h2 id="project-overview">📘 Project Overview</h2>
 
-This project demonstrates how **Advanced Excel** can be used as a powerful analytics and business intelligence tool.
+<p>
+This project demonstrates how <b>Advanced Excel</b> can be used as a powerful analytics and business intelligence tool.
+</p>
 
+<p>
 Using real-world styled Amazon sales data, the dashboard provides a clear view of:
+</p>
 
-- Sales performance
-- Delivery efficiency
-- Regional contribution
-- Order cancellations
-- Top-selling products
+<ul>
+<li>Sales performance</li>
+<li>Delivery efficiency</li>
+<li>Regional contribution</li>
+<li>Order cancellations</li>
+<li>Top-selling products</li>
+</ul>
 
-The goal is to convert raw data into **actionable insights** using Excel features like Pivot Tables, Pivot Charts, XLOOKUP, and interactive slicers.
-
----
-
-## 🛠 Tools & Skills Used
-
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- XLOOKUP  
-- Data Cleaning & Structuring  
-- KPI Design  
-- Interactive Slicers & Filters  
-- Dashboard Layout & Storytelling  
+<p>
+The goal is to convert raw data into <b>actionable insights</b> using Excel features like Pivot Tables, Pivot Charts, XLOOKUP, and interactive slicers.
+</p>
 
 ---
 
-## 📊 Dashboard Preview
+<h2 id="tools-skills">🛠 Tools & Skills Used</h2>
+
+<ul>
+<li>Microsoft Excel</li>
+<li>Pivot Tables & Pivot Charts</li>
+<li>XLOOKUP</li>
+<li>Data Cleaning & Structuring</li>
+<li>KPI Design</li>
+<li>Interactive Slicers & Filters</li>
+<li>Dashboard Layout & Storytelling</li>
+</ul>
+
+---
+
+<h2 id="dashboard-preview">📊 Dashboard Preview</h2>
 
 ### 🔹 Overview Dashboard
 
@@ -56,17 +68,19 @@ The goal is to convert raw data into **actionable insights** using Excel feature
 
 ---
 
-## 🔍 Key Business Insights
+<h2 id="insights">🔍 Key Business Insights</h2>
 
-- Identified high-performing regions contributing the most to total sales  
-- Analyzed delivery performance and cancellation patterns  
-- Compared order volume vs effective sales across regions  
-- Highlighted top-selling products driving revenue  
-- Enabled month-wise, region-wise, and delivery-status analysis using slicers  
+<ul>
+<li>Identified high-performing regions contributing the most to total sales</li>
+<li>Analyzed delivery performance and cancellation patterns</li>
+<li>Compared order volume vs effective sales across regions</li>
+<li>Highlighted top-selling products driving revenue</li>
+<li>Enabled month-wise, region-wise, and delivery-status analysis using slicers</li>
+</ul>
 
 ---
 
-## 📁 Project Files
+<h2 id="project-files">📁 Project Files</h2>
 
 ```
 Amazon-Sales-Excel-Dashboard/
@@ -83,25 +97,32 @@ Amazon-Sales-Excel-Dashboard/
 
 ---
 
-## 🚀 How to Use
+<h2 id="how-to-use">🚀 How to Use</h2>
 
-1. Download the Excel file  
-2. Open `Amazon_Sales_Dashboard.xlsx`  
-3. Use slicers to filter data by:
-   - Month
-   - Region
-   - Delivery Status
-   - Payment Mode  
-4. Analyze KPIs and charts for insights  
+<ol>
+<li>Download the Excel file</li>
+<li>Open <code>Amazon_Sales_Dashboard.xlsx</code></li>
+<li>Use slicers to filter data by:
+  <ul>
+    <li>Month</li>
+    <li>Region</li>
+    <li>Delivery Status</li>
+    <li>Payment Mode</li>
+  </ul>
+</li>
+<li>Analyze KPIs and charts for insights</li>
+</ol>
 
 ---
 
-## 👤 Author
+<h2 id="author">👤 Author</h2>
 
-**Nitish Sharma**  
-📧 Email: nitishsharma.id@gmail.com  
-🔗 GitHub: https://github.com/NitishSharma77  
-🔗 LinkedIn: https://www.linkedin.com/in/nitish-sharma7  
+<p>
+<b>Nitish Sharma</b><br>
+📧 Email: nitishsharma.id@gmail.com<br>
+🔗 GitHub: https://github.com/NitishSharma77<br>
+🔗 LinkedIn: https://www.linkedin.com/in/nitish-sharma7
+</p>
 
 ---
 
